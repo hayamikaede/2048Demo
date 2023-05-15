@@ -1,0 +1,4 @@
+repository "2048Project@hayamikaedekun@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
